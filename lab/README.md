@@ -1,4 +1,4 @@
-# 💡 CSS Basics Labs 
+# 💡 CSS Basics Labs
 
 ## 🎯 Tasks
 

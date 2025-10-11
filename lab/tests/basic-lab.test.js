@@ -12,7 +12,7 @@ describe('CSS Basics Lab - HTML Structure Tests', () => {
   let htmlContent;
 
   beforeAll(() => {
-    const htmlPath = path.join(__dirname, '..', 'lab', 'index.html');
+    const htmlPath = path.join(__dirname, '..', 'index.html');
     htmlContent = fs.readFileSync(htmlPath, 'utf8');
     document.documentElement.innerHTML = htmlContent;
   });
